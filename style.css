@@ -39,7 +39,7 @@ img {
   transform: scale(1)
 }
 
-.me img {
+.me {
   position: absolute;
   right: 1rem;
   top: 1rem;

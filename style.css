@@ -38,3 +38,10 @@ img {
   margin: 0 auto;
   transform: scale(1)
 }
+
+. me img {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  transform: scale(1)
+}

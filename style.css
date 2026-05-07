@@ -79,5 +79,6 @@ button:hover {
 
 .hannah {
   display: block;
+  max-width: 30%;
   margin: 0 auto;
-  transform: scale(.5)
+  

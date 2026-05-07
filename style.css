@@ -68,7 +68,7 @@ button:hover {
 }
 
 .dark-mode {
-  background: #222 !important;
+  background: #222;
   color: white;
 }
 

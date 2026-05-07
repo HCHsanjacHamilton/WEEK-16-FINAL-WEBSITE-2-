@@ -76,3 +76,8 @@ button:hover {
   color: white;
 }
 
+.art {
+  display: block;
+  margin: 0 auto;
+  transform: scale(1)
+}

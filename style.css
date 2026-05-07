@@ -89,16 +89,19 @@ button:hover {
   .pink {
     display: block;
   margin: 0 auto;
+    max-width: 40%;
   }
 
   .blue {
     display: block;
   margin: 0 auto;
+    max-width: 40%;
   }
 
   .purple {
     display: block;
   margin: 0 auto;
+    max-width: 40%;
   }
     
   

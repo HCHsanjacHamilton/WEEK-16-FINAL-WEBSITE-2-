@@ -87,4 +87,10 @@ button:hover {
     max-width: 20%;
   margin: 0 auto;
   }
+
+  .art-art {
+    display: block;
+    max-width: 30%;
+    margin: 0 auto;
+  }
   
